@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-09-17T03:43:13.869567586Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-09-17T03:44:14.071590413Z",
     "templateType": "trip_d",
     "propertyId": "6950263c-fcd2-43c0-89be-a0de0739ebd7",
     "homepageId": "01a0ad68-c209-77af-b18b-95d560c10187"
@@ -1057,6 +1057,7 @@
       "roomtypes": [
         {
           "id": "01a0ad4d-e5f2-78ef-8fea-ee6130172e0a",
+          "name": "반월",
           "images": [
             {
               "id": "01a0ad71-f1db-7631-8e56-8b749ab9c6ea",
@@ -1247,10 +1248,12 @@
               "blockId": "01a0ad4d-e5f2-78ef-8fea-ee6130172e0a",
               "category": "roomtype_exterior"
             }
-          ]
+          ],
+          "nameEn": "반월"
         },
         {
           "id": "01a0ad4d-e572-7400-aa90-e3749fc36dc5",
+          "name": "반달",
           "images": [
             {
               "id": "01a0ad71-f1e8-7213-93d2-3f07ee334eac",
@@ -1432,7 +1435,8 @@
               "blockId": "01a0ad4d-e572-7400-aa90-e3749fc36dc5",
               "category": "roomtype_exterior"
             }
-          ]
+          ],
+          "nameEn": "반달"
         }
       ]
     }
