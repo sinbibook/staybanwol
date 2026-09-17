@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-09-17T05:01:50.312970675Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-09-17T05:07:15.258721880Z",
     "templateType": "trip_d",
     "propertyId": "6950263c-fcd2-43c0-89be-a0de0739ebd7",
     "homepageId": "01a0ad68-c209-77af-b18b-95d560c10187"
@@ -109,44 +109,11 @@
         ]
       },
       {
-        "id": "01a0ad61-6923-772d-8684-ba760eb1f276",
-        "name": "개별 바베큐",
-        "description": "여유롭게 즐기는 저녁",
-        "usageGuide": "여유로운 공간에서 즐기는 식사 시간은\n단순한 한 끼를 넘어 특별한 기억으로 남습니다.",
-        "displayOrder": 1,
-        "images": [
-          {
-            "id": "01a0ad61-78fd-7660-8ce8-43d157c2ed23",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad61-6923-772d-8684-ba760eb1f276/main/1789615241239-qwsoaa7ypk.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a0ad61-7908-7a43-b119-b0ca5cd42741",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad61-6923-772d-8684-ba760eb1f276/main/1789615241240-799iacye1t.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a0ad61-78f8-7696-b25b-542f1509b97b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad61-6923-772d-8684-ba760eb1f276/main/1789615241240-0mwljs325k.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
         "id": "01a0ad62-058e-7164-9eba-8793e4b155d6",
         "name": " 불멍",
         "description": "따뜻한 불빛 아래 쉬어가는 시간",
         "usageGuide": "은은하게 퍼지는 불빛을 바라보며\n하루의 긴장을 천천히 내려놓는 시간을 가져보세요.",
-        "displayOrder": 2,
+        "displayOrder": 1,
         "images": [
           {
             "id": "01a0ad62-1461-79f7-acae-cbbf6080e9d5",
@@ -179,7 +146,7 @@
         "name": "편의 및 주변 시설",
         "description": "편안한 이용을 위한 공간",
         "usageGuide": "- 넷플릭스 이용 가능\n※ 넷플릭스 개인계정 필요\n- OTT 이용 가능\n※ OTT 개인계정 필요\n- 배달 음식 가능",
-        "displayOrder": 3,
+        "displayOrder": 2,
         "images": [
           {
             "id": "01a0ad61-774a-70e3-8445-cec10977c402",
@@ -275,7 +242,7 @@
           {
             "id": "01a0ad18-7a01-7956-8402-67f32477cc34",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/XkefHU15NP07.jpg",
-            "sortOrder": 33,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -285,7 +252,7 @@
           {
             "id": "01a0ad18-7a01-796a-aabc-4c80db2bb2b0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/JiFgoqlRQCNk.jpg",
-            "sortOrder": 34,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -293,7 +260,7 @@
           {
             "id": "01a0ad18-7a01-797f-a605-4d96fb61f360",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/I83pem4iJXuc.jpg",
-            "sortOrder": 35,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -301,7 +268,7 @@
           {
             "id": "01a0ad18-7a01-79a4-9e06-582218e8b942",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/OoP1bes5FZa8.jpg",
-            "sortOrder": 36,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -309,7 +276,7 @@
           {
             "id": "01a0ad18-7a01-79ba-b206-1a41757a19d6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/ym5ZglO1tfL8.jpg",
-            "sortOrder": 37,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -317,7 +284,7 @@
           {
             "id": "01a0ad18-7a01-79cb-8bce-34f9c130753e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/5D9lTZ27cBsi.jpg",
-            "sortOrder": 38,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -325,7 +292,7 @@
           {
             "id": "01a0ad18-7a01-79df-ab79-be4d9119838a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/z9O6FCRpYaKE.jpg",
-            "sortOrder": 39,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -333,7 +300,7 @@
           {
             "id": "01a0ad18-7a01-79f4-8596-8d71c0b35dd6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/yT9lvGa6h1DK.jpg",
-            "sortOrder": 40,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -341,7 +308,7 @@
           {
             "id": "01a0ad18-7a01-7a06-b9aa-efb8ff4cc9f8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/Xm7Z8pEJNPCH.jpg",
-            "sortOrder": 42,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -349,7 +316,7 @@
           {
             "id": "01a0ad18-7a01-7a71-b435-ce876864f0e6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/GZJ8Ftw07Ubq.jpg",
-            "sortOrder": 43,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -357,7 +324,7 @@
           {
             "id": "01a0ad18-7a01-7a85-94d1-3c2b8827a5bf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/0lko49OJg8h3.jpg",
-            "sortOrder": 45,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -365,7 +332,7 @@
           {
             "id": "01a0ad18-7a01-7a9a-b59a-baf50bf640a1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/yEXDIW0N428H.jpg",
-            "sortOrder": 46,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -373,7 +340,7 @@
           {
             "id": "01a0ad18-7a01-7aad-88d1-120e1c540914",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/C1zvGIDJsNAi.jpg",
-            "sortOrder": 47,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -381,7 +348,7 @@
           {
             "id": "01a0ad18-7a01-7abf-8e61-9d48a7b4eb1e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/6rF3vCojIzbE.jpg",
-            "sortOrder": 48,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -922,6 +889,26 @@
                 },
                 "about": {
                   "title": "은은하게 퍼지는 불빛을 바라보며\n하루의 긴장을 천천히 내려놓는 시간을 가져보세요.\n",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "01a0ad59-9f65-7811-addb-49171a3a01c6",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "- 넷플릭스 이용 가능\n※ 넷플릭스 개인계정 필요\n- OTT 이용 가능\n※ OTT 개인계정 필요\n- 배달 음식 가능",
                   "images": [ ]
                 },
                 "experience": {
