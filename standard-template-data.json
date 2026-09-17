@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-09-17T03:40:36.360788386Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-09-17T03:43:13.869567586Z",
     "templateType": "trip_d",
     "propertyId": "6950263c-fcd2-43c0-89be-a0de0739ebd7",
     "homepageId": "01a0ad68-c209-77af-b18b-95d560c10187"
@@ -713,8 +713,8 @@
                 "title": "A cozy place to stay, a little time to slow down",
                 "images": [
                   {
-                    "id": "01a0ad6d-b072-7871-b9d3-ebe19968372f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/index_essence/1789616041687-u281p1ioaw.jpg",
+                    "id": "01a0ad76-1485-7b4c-a2f4-fa88d1546abd",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/index_essence/1789616591767-fuft8c1vpg.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -747,7 +747,16 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ]
+                "images": [
+                  {
+                    "id": "01a0ad76-1471-71eb-86d7-09d7097f55ce",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/directions_hero/1789616591768-25lec6abhq.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -916,15 +925,33 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a0ad76-147d-71f8-bd99-8e76714f3c8a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/layout_map_hero/1789616591768-1g07582tif.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               },
               "about": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a0ad76-1470-7ca8-941e-b952a57b6ac6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/layout_map_about/1789616591768-gm457pr5ev.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               },
-              "enabled": false
+              "enabled": true
             }
           ]
         }
