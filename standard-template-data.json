@@ -1,0 +1,798 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2026-09-17T03:28:47.866948637Z",
+    "templateType": "trip_d",
+    "propertyId": "6950263c-fcd2-43c0-89be-a0de0739ebd7",
+    "homepageId": "01a0ad68-c209-77af-b18b-95d560c10187"
+  },
+  "property": {
+    "id": "6950263c-fcd2-43c0-89be-a0de0739ebd7",
+    "name": "경주 스테이 반월 펜션",
+    "nameEn": "Gyeongju Stay Banwol Pension",
+    "description": "감성 숙소, 경주 스테이 반월입니다.",
+    "subtitle": "",
+    "address": "경북 경주시 반달길 53-1 (인왕동) 경주 스테이 반월 펜션",
+    "latitude": 35.826449952087,
+    "longitude": 129.2256212059,
+    "contactPhone": [
+      "010-9730-7510"
+    ],
+    "contactEmail": "",
+    "checkin": "15:00",
+    "checkout": "11:00",
+    "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 비대면 셀프 체크인 방식으로 체크인 마감 시간 제한 없음",
+    "usageGuide": "※ 조용하고 편안한 휴식을 위해 노키즈 펜션으로 운영하고 있습니다. 성인 고객님만 입실 가능하니 예약 전에 꼭 확인 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 비대면 셀프 체크인 방식으로 체크인 마감 시간 제한 없음\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 10,000원, 유아 무료\n(1박기준/현장결제)\n※ 인원 추가 시 침구 제공됩니다.\n\n[스파]\n[실내 자쿠지]\n- 이용 객실: 반월, 반달\n- 스파 형태: 자쿠지\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 입욕제 사용: 가능\n\n[편의 및 주변 시설]\n- 넷플릭스 이용 가능\n※ 넷플릭스 개인계정 필요\n- OTT 이용 가능\n※ OTT 개인계정 필요\n- 배달 음식 가능\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n※ 펜션 입구에 주차 가능합니다.",
+    "reservationGuide": "※ 조용하고 편안한 휴식을 위해 노키즈 펜션으로 운영하고 있습니다. 성인 고객님만 입실 가능하니 예약 전에 꼭 확인 부탁드립니다.",
+    "province": "도/시",
+    "city": "시/군/구",
+    "domain": "staybanwol.kr",
+    "realtimeBookingId": "",
+    "ybsId": "",
+    "tripPropertyId": "13161",
+    "partnerType": "distributor_b",
+    "tripProviderName": "",
+    "amenities": [
+      "흡연구역(지정장소)",
+      "주차장"
+    ],
+    "nearbyAttractions": [ ],
+    "services": [ ],
+    "propertyThemes": [ ],
+    "propertyTypes": [ ],
+    "businessInfo": {
+      "businessName": "경주 감성숙소 스테이 반월",
+      "businessNumber": "825-15-02250",
+      "representativeName": "강라희",
+      "businessAddress": "경상북도 경주시 반달길 53-1(인왕동)",
+      "businessPhone": "",
+      "businessEmail": "rosemary8888@naver.com",
+      "businessType": "corporate",
+      "businessCategory": "숙박업",
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [
+      {
+        "id": "01a0ad59-9f65-7617-b570-0ead6f261176",
+        "name": "스파",
+        "description": "",
+        "usageGuide": "[실내 자쿠지]\n- 이용 객실: 반월, 반달\n- 스파 형태: 자쿠지\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 입욕제 사용: 가능",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a0ad61-762f-7eb6-8aa6-dbb9facad5f5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad59-9f65-7617-b570-0ead6f261176/main/1789615240276-4tu7a1t8rl.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad61-764a-761c-8820-469c2355c73b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad59-9f65-7617-b570-0ead6f261176/main/1789615240277-mgeq0aj2o6.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad61-762c-72bb-80bc-815e54e0ec80",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad59-9f65-7617-b570-0ead6f261176/main/1789615240278-lj6f2nm7n3.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad61-762f-74d9-87ca-211773e36edd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad59-9f65-7617-b570-0ead6f261176/main/1789615240278-18hfa1l4tl.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a0ad61-6923-772d-8684-ba760eb1f276",
+        "name": "개별 바베큐",
+        "description": "여유로운 공간에서 즐기는 식사 시간은\n단순한 한 끼를 넘어 특별한 기억으로 남습니다.",
+        "usageGuide": "",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "01a0ad61-78fd-7660-8ce8-43d157c2ed23",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad61-6923-772d-8684-ba760eb1f276/main/1789615241239-qwsoaa7ypk.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad61-7908-7a43-b119-b0ca5cd42741",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad61-6923-772d-8684-ba760eb1f276/main/1789615241240-799iacye1t.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad61-78f8-7696-b25b-542f1509b97b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad61-6923-772d-8684-ba760eb1f276/main/1789615241240-0mwljs325k.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a0ad62-058e-7164-9eba-8793e4b155d6",
+        "name": " 불멍",
+        "description": "은은하게 퍼지는 불빛을 바라보며\n하루의 긴장을 천천히 내려놓는 시간을 가져보세요.",
+        "usageGuide": "",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "01a0ad62-1461-79f7-acae-cbbf6080e9d5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad62-058e-7164-9eba-8793e4b155d6/main/1789615280221-8l2qmprhdi.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad62-113f-74dd-85d0-af43527dac15",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad62-058e-7164-9eba-8793e4b155d6/main/1789615280222-wnqvz9o9io.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad62-1206-72dc-a6bb-2853fc381c95",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad62-058e-7164-9eba-8793e4b155d6/main/1789615280222-mb15mlh54i.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a0ad59-9f65-7811-addb-49171a3a01c6",
+        "name": "편의 및 주변 시설",
+        "description": "",
+        "usageGuide": "- 넷플릭스 이용 가능\n※ 넷플릭스 개인계정 필요\n- OTT 이용 가능\n※ OTT 개인계정 필요\n- 배달 음식 가능",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a0ad61-774a-70e3-8445-cec10977c402",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad59-9f65-7811-addb-49171a3a01c6/main/1789615240814-optk6zwwaz.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad61-773f-74c7-94f6-c3791dc3d70e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad59-9f65-7811-addb-49171a3a01c6/main/1789615240816-kpprin5lyc.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad61-775a-763f-8df1-a5bb959b4f7e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad59-9f65-7811-addb-49171a3a01c6/main/1789615240815-5dfk5qkpm0.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad61-77ef-772e-9d64-04a577bcdf6d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0ad59-9f65-7811-addb-49171a3a01c6/main/1789615240815-qkxoscbkh9.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 10,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 4,
+        "refundRate": 40
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "10",
+      "sameDayReservationHourLimit": "0"
+    },
+    "images": [
+      {
+        "thumbnail": [
+          {
+            "id": "01a0ad18-7a01-7956-8402-67f32477cc34",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/XkefHU15NP07.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "01a0ad18-7a01-796a-aabc-4c80db2bb2b0",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/JiFgoqlRQCNk.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad18-7a01-797f-a605-4d96fb61f360",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/I83pem4iJXuc.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad18-7a01-79a4-9e06-582218e8b942",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/OoP1bes5FZa8.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad18-7a01-79ba-b206-1a41757a19d6",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/ym5ZglO1tfL8.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad18-7a01-79cb-8bce-34f9c130753e",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/5D9lTZ27cBsi.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad18-7a01-79df-ab79-be4d9119838a",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/z9O6FCRpYaKE.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad18-7a01-79f4-8596-8d71c0b35dd6",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/yT9lvGa6h1DK.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad18-7a01-7a06-b9aa-efb8ff4cc9f8",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/Xm7Z8pEJNPCH.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad18-7a01-7a71-b435-ce876864f0e6",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/GZJ8Ftw07Ubq.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad18-7a01-7a85-94d1-3c2b8827a5bf",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/0lko49OJg8h3.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad18-7a01-7a9a-b59a-baf50bf640a1",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/yEXDIW0N428H.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad18-7a01-7aad-88d1-120e1c540914",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/C1zvGIDJsNAi.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0ad18-7a01-7abf-8e61-9d48a7b4eb1e",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/6rF3vCojIzbE.jpg",
+            "sortOrder": 12,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "surrounding": [ ],
+        "commonArea": [ ]
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "id": "01a0ad4d-e5f2-78ef-8fea-ee6130172e0a",
+      "name": "반월",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,자쿠지,전자레인지,인덕션,커피포트,타월,블루투스 스피커",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "퀸 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "블루투스스피커",
+        "수건",
+        "전기포트",
+        "인덕션",
+        "전자레인지",
+        "자쿠지",
+        "전기밥솥",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 1
+    },
+    {
+      "id": "01a0ad4d-e572-7400-aa90-e3749fc36dc5",
+      "name": "반달",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+주방1+화장실1\r\n10평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,자쿠지,전자레인지,인덕션,커피포트,타월,블루투스 스피커",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 33.06,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "퀸 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 1,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "블루투스스피커",
+        "수건",
+        "전기포트",
+        "인덕션",
+        "전자레인지",
+        "자쿠지",
+        "전기밥솥",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 2
+    }
+  ],
+  "homepage": {
+    "id": "01a0ad68-c209-77af-b18b-95d560c10187",
+    "domain": "staybanwol.kr",
+    "templateType": "trip_d",
+    "images": [
+      {
+        "logo": [ ]
+      }
+    ],
+    "seo": {
+      "title": "",
+      "description": "",
+      "keywords": "",
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
+    },
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "closing": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "essence": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "gallery": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "signature": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ]
+              },
+              "notice": {
+                "title": "",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ]
+            }
+          ]
+        },
+        "room": [ ],
+        "facility": [ ],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ]
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              }
+            }
+          ]
+        },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ],
+              "enabled": false
+            }
+          ]
+        },
+        "layoutMap": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "enabled": false
+            }
+          ]
+        }
+      },
+      "popup": {
+        "popups": [ ]
+      },
+      "theme": {
+        "font": {
+          "koMain": null,
+          "koSub": null,
+          "enMain": null
+        },
+        "color": null
+      },
+      "property": {
+        "name": "경주 스테이 반월 펜션",
+        "images": [
+          {
+            "id": "01a0ad68-c37a-7f46-bad4-f681d7b6e9bc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/property_thumbnail/1789615718965-lpwa66e3b9.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "01a0ad68-c420-79b8-b883-bf1d0488fa72",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/property_exterior/1789615718963-c2chlyy6nx.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ad68-c36a-7da4-b66d-29a4c31f1a51",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/property_exterior/1789615718966-bw0l4tmfgf.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ad68-c365-7d1c-a65d-c7af7254bc07",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/property_exterior/1789615718968-7szj0015mh.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ad68-c359-7150-87ee-a23a0202940e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/property_exterior/1789615718966-s7rlkwun22.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ad68-c38b-7a52-bc98-aff76800c252",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/property_exterior/1789615718969-6dlnnnqwr1.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ad68-c384-7694-8ac3-7c1fc2b1f687",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/property_exterior/1789615718969-6s8jryxi6x.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ad68-c369-787c-9b73-b1ed990cee47",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/property_exterior/1789615718970-yfychmwioo.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a0ad68-c38b-7ed8-9d49-7a64920a943b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ad68-c209-77af-b18b-95d560c10187/property_exterior/1789615718969-werym4mm52.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
+        "nameEn": "Gyeongju Stay Banwol Pension"
+      },
+      "roomtypes": [
+        {
+          "id": "01a0ad4d-e5f2-78ef-8fea-ee6130172e0a",
+          "images": [ ]
+        },
+        {
+          "id": "01a0ad4d-e572-7400-aa90-e3749fc36dc5",
+          "images": [ ]
+        }
+      ]
+    }
+  }
+}
