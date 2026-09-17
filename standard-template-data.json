@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-09-17T05:36:56.063854137Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-09-17T05:50:55.834643366Z",
     "templateType": "trip_d",
     "propertyId": "6950263c-fcd2-43c0-89be-a0de0739ebd7",
     "homepageId": "01a0ad68-c209-77af-b18b-95d560c10187"
@@ -70,7 +70,7 @@
       {
         "id": "01a0ad59-9f65-7617-b570-0ead6f261176",
         "name": "스파",
-        "description": "따뜻한 물에 몸을 담그고 휴식의 시간",
+        "description": "",
         "usageGuide": "[실내 자쿠지]\n- 이용 객실: 반월, 반달\n- 스파 형태: 자쿠지\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 입욕제 사용: 가능",
         "displayOrder": 0,
         "images": [
@@ -177,7 +177,7 @@
       {
         "id": "01a0ad59-9f65-7811-addb-49171a3a01c6",
         "name": "편의 및 주변 시설",
-        "description": "편안한 이용을 위한 공간",
+        "description": "",
         "usageGuide": "- 넷플릭스 이용 가능\n※ 넷플릭스 개인계정 필요\n- OTT 이용 가능\n※ OTT 개인계정 필요\n- 배달 음식 가능",
         "displayOrder": 3,
         "images": [
