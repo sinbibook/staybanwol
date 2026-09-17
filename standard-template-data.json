@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-09-17T05:57:34.395309529Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-09-17T06:38:23.020210305Z",
     "templateType": "trip_d",
     "propertyId": "6950263c-fcd2-43c0-89be-a0de0739ebd7",
     "homepageId": "01a0ad68-c209-77af-b18b-95d560c10187"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 비대면 셀프 체크인 방식으로 체크인 마감 시간 제한 없음",
-    "usageGuide": "※ 조용하고 편안한 휴식을 위해 노키즈 펜션으로 운영하고 있습니다. 성인 고객님만 입실 가능하니 예약 전에 꼭 확인 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 비대면 셀프 체크인 방식으로 체크인 마감 시간 제한 없음\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 10,000원, 유아 무료\n(1박기준/현장결제)\n※ 인원 추가 시 침구 제공됩니다.\n\n[개별바베큐]\n- 이용 객실: 반월, 반달\n- 이용 장소: 야외 테라스\n- 바베큐 형태: 자이글\n- 이용 요금: 무료\n- 이용 시간: 제한없음\n\n[스파]\n[실내 자쿠지]\n- 이용 객실: 반월, 반달\n- 스파 형태: 자쿠지\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 입욕제 사용: 가능\n\n[불멍]\n- 이용 객실: 반월, 반달\n- 이용 장소: 객실 앞 테라스\n- 이용 요금: 장작 10kg 15,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n※ 일부 기간은 이용이 어려울 수 있습니다. 사전 문의 부탁드립니다.\n\n[편의 및 주변 시설]\n- 넷플릭스 이용 가능\n※ 넷플릭스 개인계정 필요\n- OTT 이용 가능\n※ OTT 개인계정 필요\n- 배달 음식 가능\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n※ 펜션 입구에 주차 가능합니다.",
+    "usageGuide": "[공지사항]\n※ 조용하고 편안한 휴식을 위해 노키즈 펜션으로 운영하고 있습니다. 성인 고객님만 입실 가능하니 예약 전에 꼭 확인 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 비대면 셀프 체크인 방식으로 체크인 마감 시간 제한 없음\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 인원 추가 시 침구 제공됩니다.\n\n[개별바베큐]\n- 이용 객실: 반월, 반달\n- 이용 장소: 야외 테라스\n- 바베큐 형태: 자이글\n- 이용 요금: 무료\n- 이용 시간: 제한없음\n\n[스파]\n[실내 자쿠지]\n- 이용 객실: 반월, 반달\n- 스파 형태: 자쿠지\n- 이용 요금: 30,000원 (1박기준/현장결제)\n- 입욕제 사용: 가능\n\n[불멍]\n- 이용 객실: 반월, 반달\n- 이용 장소: 객실 앞 테라스\n- 이용 요금: 장작 10kg 15,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n※ 일부 기간은 이용이 어려울 수 있습니다. 사전 문의 부탁드립니다.\n\n[편의 및 주변 시설]\n- 넷플릭스 이용 가능\n※ 넷플릭스 개인계정 필요\n- OTT 이용 가능\n※ OTT 개인계정 필요\n- 배달 음식 가능\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n※ 펜션 입구에 주차 가능합니다.",
     "reservationGuide": "※ 조용하고 편안한 휴식을 위해 노키즈 펜션으로 운영하고 있습니다. 성인 고객님만 입실 가능하니 예약 전에 꼭 확인 부탁드립니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -275,7 +275,7 @@
           {
             "id": "01a0ad18-7a01-7956-8402-67f32477cc34",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/XkefHU15NP07.jpg",
-            "sortOrder": 0,
+            "sortOrder": 33,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -285,7 +285,7 @@
           {
             "id": "01a0ad18-7a01-796a-aabc-4c80db2bb2b0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/JiFgoqlRQCNk.jpg",
-            "sortOrder": 0,
+            "sortOrder": 34,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -293,7 +293,7 @@
           {
             "id": "01a0ad18-7a01-797f-a605-4d96fb61f360",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/I83pem4iJXuc.jpg",
-            "sortOrder": 1,
+            "sortOrder": 35,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -301,7 +301,7 @@
           {
             "id": "01a0ad18-7a01-79a4-9e06-582218e8b942",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/OoP1bes5FZa8.jpg",
-            "sortOrder": 2,
+            "sortOrder": 36,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -309,7 +309,7 @@
           {
             "id": "01a0ad18-7a01-79ba-b206-1a41757a19d6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/ym5ZglO1tfL8.jpg",
-            "sortOrder": 3,
+            "sortOrder": 37,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -317,7 +317,7 @@
           {
             "id": "01a0ad18-7a01-79cb-8bce-34f9c130753e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/5D9lTZ27cBsi.jpg",
-            "sortOrder": 4,
+            "sortOrder": 38,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -325,7 +325,7 @@
           {
             "id": "01a0ad18-7a01-79df-ab79-be4d9119838a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/z9O6FCRpYaKE.jpg",
-            "sortOrder": 5,
+            "sortOrder": 39,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -333,7 +333,7 @@
           {
             "id": "01a0ad18-7a01-79f4-8596-8d71c0b35dd6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/yT9lvGa6h1DK.jpg",
-            "sortOrder": 6,
+            "sortOrder": 40,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -341,7 +341,7 @@
           {
             "id": "01a0ad18-7a01-7a06-b9aa-efb8ff4cc9f8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/Xm7Z8pEJNPCH.jpg",
-            "sortOrder": 7,
+            "sortOrder": 42,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -349,7 +349,7 @@
           {
             "id": "01a0ad18-7a01-7a71-b435-ce876864f0e6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/GZJ8Ftw07Ubq.jpg",
-            "sortOrder": 8,
+            "sortOrder": 43,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -357,7 +357,7 @@
           {
             "id": "01a0ad18-7a01-7a85-94d1-3c2b8827a5bf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/0lko49OJg8h3.jpg",
-            "sortOrder": 9,
+            "sortOrder": 45,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -365,7 +365,7 @@
           {
             "id": "01a0ad18-7a01-7a9a-b59a-baf50bf640a1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/yEXDIW0N428H.jpg",
-            "sortOrder": 10,
+            "sortOrder": 46,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -373,7 +373,7 @@
           {
             "id": "01a0ad18-7a01-7aad-88d1-120e1c540914",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/C1zvGIDJsNAi.jpg",
-            "sortOrder": 11,
+            "sortOrder": 47,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -381,7 +381,7 @@
           {
             "id": "01a0ad18-7a01-7abf-8e61-9d48a7b4eb1e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/17/6rF3vCojIzbE.jpg",
-            "sortOrder": 12,
+            "sortOrder": 48,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -568,7 +568,7 @@
       "title": "",
       "description": "",
       "keywords": "",
-      "naverSiteVerification": "7b7a66832dd6d02a0f5b9466230b8c6e2c87aa7c",
+      "naverSiteVerification": "97fe0bbce060a5983678ea456a37b8b5b15d3b8c",
       "googleSiteVerification": "CP5FlFyo6bhtJysaXpPr4L8K6C9mEiHiJRZMnN_cUrs"
     },
     "socialLinks": {
