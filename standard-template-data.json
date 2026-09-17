@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-09-17T03:34:03.308017107Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-09-17T03:35:11.247973185Z",
     "templateType": "trip_d",
     "propertyId": "6950263c-fcd2-43c0-89be-a0de0739ebd7",
     "homepageId": "01a0ad68-c209-77af-b18b-95d560c10187"
@@ -701,7 +701,7 @@
                 "description": "간직하고 싶은 소중한 추억을 만들고 싶은 날 모든 순간이 소중해 집니다.\n편안함과 즐거움,아름다움이 함께하는\n경주 더스퀘어 펜션에서 행복한 추억을 만들어가세요."
               },
               "essence": {
-                "title": "",
+                "title": "A cozy place to stay, a little time to slow down",
                 "images": [
                   {
                     "id": "01a0ad6d-b072-7871-b9d3-ebe19968372f",
@@ -714,7 +714,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "유럽의 작은 집을 닮은 힐링 스테이에서\n일상을 잠시 내려놓고 여유로운 하루를 보내세요.\n\n따스한 분위기 속에서 소중한 사람과 이야기를 나누며\n함께여서 더 좋은 여행의 순간을 만들어보세요."
               },
               "gallery": {
                 "title": "",
