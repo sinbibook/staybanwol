@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-09-17T03:45:59.891199485Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-09-17T03:46:18.576315094Z",
     "templateType": "trip_d",
     "propertyId": "6950263c-fcd2-43c0-89be-a0de0739ebd7",
     "homepageId": "01a0ad68-c209-77af-b18b-95d560c10187"
@@ -836,7 +836,7 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": "유럽의 작은 집을 닮은 경주 스테이 반월 펜션에서\n일상을 잠시 내려놓고 여유로운 하루를 보내세요.\n\n따스한 분위기 속에서 소중한 사람과 이야기를 나누며\n함께여서 더 좋은 여행의 순간을 만들어보세요."
               },
               "about": [
                 {
