@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-09-17T03:44:14.071590413Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-09-17T03:45:59.891199485Z",
     "templateType": "trip_d",
     "propertyId": "6950263c-fcd2-43c0-89be-a0de0739ebd7",
     "homepageId": "01a0ad68-c209-77af-b18b-95d560c10187"
@@ -769,7 +769,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "A cozy place to stay, a little time to slow down",
                 "images": [
                   {
                     "id": "01a0ad70-0f85-7973-8f09-c0c5502af74f",
