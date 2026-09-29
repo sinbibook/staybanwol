@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.30.0",
-    "generatedAt": "2026-09-29T01:42:07.659280908Z",
+    "version": "1.31.0",
+    "generatedAt": "2026-09-29T01:51:34.738138313Z",
     "templateType": "trip_d",
     "propertyId": "6950263c-fcd2-43c0-89be-a0de0739ebd7",
     "homepageId": "01a0ad68-c209-77af-b18b-95d560c10187"
@@ -2090,6 +2090,18 @@
             }
           ],
           "nameEn": "반달"
+        },
+        {
+          "id": "01a0c229-a43f-7a81-bd6d-50ebdd4a2b0d",
+          "images": [ ]
+        },
+        {
+          "id": "01a0c229-a4bb-7f8e-b1d8-43b0f2e70315",
+          "images": [ ]
+        },
+        {
+          "id": "01a0c229-a50f-7176-87da-dd32295ee5cc",
+          "images": [ ]
         }
       ]
     }
